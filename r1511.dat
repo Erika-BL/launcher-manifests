@@ -586,7 +586,7 @@ DOWNLOADURL	http://cloud.blockland.us/blobs
 /base/help/0. Credits.hfl	35517043a96f5368bc482c4b37d003a548df7608
 /base/help/4. Brick Appearance.hfl	0e8d469cf72e019ca2e873cb3ed99453991ad439
 /base/help/5. Destroying Bricks.hfl	608e6943c34891a82dfa7dcaa9530d3db80f2e18
-/base/server/scripts/game.cs.dso	8bde6f63dbe8a94b594d37c0c52e24e04aa590b6
+/base/server/scripts/game.cs.dso	9094079877e4eaa1b83fd2bd71b54dcab54228c6
 /base/server/scripts/allGameScripts.cs.dso	e3289f1739dead042390c294ff00ef6f08a401f1
 /base/server/scripts/DamageTypes.cs.dso	447c447bb2372b38334121477d4e9f0312587915
 /base/server/defaultAddOnList.cs.dso	e08f531d7e8ca23748ff6fa58fabff463ea2bca4
